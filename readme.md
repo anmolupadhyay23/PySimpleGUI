@@ -83,7 +83,7 @@ While the goal is to encapsulate/hide the specific objects and code used by the 
 
 ## Bridging the "GUI Gap"
 
-Python has brought a large number of people into the programming community. The number of programs and the range of areas it touches is mindboggling.  But more often than not, these technologies are out of reach of all but a handful of people.  The majority of Python programs are "command line" based. This isn't a problem for programmer-types as we're all used to interacting with computers through a text interface.  While programmers don't have a problem with command-line interfaces, most "normal people" do.  This creates a digital divide, a "GUI Gap".
+Python has brought a large number of people into the programming community. The number of programs and the range of areas it touches is mindboggling.  But more often than not, these technologies are out of reach of all but a handful of people.  The majority of Python programs are "command line" based. This isn't a problem for programmer's as we're all used to interacting with computers through a text interface.  While programmers don't have a problem with command-line interfaces, most "normal people" do.  This creates a digital divide, a "GUI Gap".
 
 Adding a GUI to a program opens that program up to a wider audience. It becomes more approachable. GUIs can also make interacting with some programs easier, even for those that are comfortable with a command-line interface.  And finally, some problems require a GUI.  
 
